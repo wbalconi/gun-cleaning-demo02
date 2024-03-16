@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="7f7cf2a1">
+        <description>Created after removal of "This is the first topic" from Help Instance</description>
+        <accepts>Default-topic.html</accepts>
+    </rule>
+    <rule id="2df0c1fa">
+        <description>
+            <![CDATA[Created after removal of "The Complete Handgun & Pistol Caliber Comparison" from Help Instance]]></description>
+        <accepts>The-Complete-Handgun-Pistol-Caliber-Comparison.html</accepts>
+    </rule>
+</rules>
