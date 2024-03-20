@@ -15,4 +15,8 @@
             <![CDATA[Created after removal of "The Complete Handgun & Pistol Caliber Comparison" from Help Instance]]></description>
         <accepts>The-Complete-Handgun-Pistol-Caliber-Comparison.html</accepts>
     </rule>
+    <rule id="43c5c5f5">
+        <description>Created after removal of "How to" from Help Instance</description>
+        <accepts>How-to.html</accepts>
+    </rule>
 </rules>
