@@ -6,6 +6,7 @@
                  name="Help Instance"
                  start-page="How-to-clean-your-gun.md">
 
+    <toc-element topic="How-to-buy-a-shotgun.md"/>
     <toc-element topic="load-a-gun.md"/>
     <toc-element topic="How-to-buy-bullets-for-hunting.md"/>
     <toc-element topic="How-to-clean-your-gun.md"/>
