@@ -16,7 +16,7 @@ Before you embark on your bullet-buying journey, consider the following prerequi
 
 1. **Legal Requirements**: Ensure that you are aware of the legal regulations regarding ammunition purchase in your area. Different states and countries have varying rules, so research thoroughly.
 
-2. **Purpose of Hunting**: Define the purpose of your hunting expedition. Are you targeting small game, big game, or varmints? The type of bullet you choose will depend on your intended prey.
+2. **Purpose of Sporting**: Define the purpose of your hunting expedition. Are you targeting small game, big game, or varmints? The type of bullet you choose will depend on your intended prey.
 
 ## How to Buy Bullets
 
